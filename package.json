@@ -1,7 +1,7 @@
 {
   "name": "ecohome-backend",
   "version": "1.0.0",
-  "description": "Backend para tienda ecológica EcoHome",
+  "description": "Backend para EcoHome Store con PostgreSQL, JWT y roles",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
